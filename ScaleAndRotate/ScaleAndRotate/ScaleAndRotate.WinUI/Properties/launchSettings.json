@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ScaleAndRotate.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

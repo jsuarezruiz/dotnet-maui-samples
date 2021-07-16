@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31220.234
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScaleAndRotate", "ScaleAndRotate\ScaleAndRotate\ScaleAndRotate.csproj", "{7B4CD465-CC97-4243-A12C-5A62335961C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScaleAndRotate.WinUI", "ScaleAndRotate\ScaleAndRotate.WinUI\ScaleAndRotate.WinUI.csproj", "{1BE8DB2E-8BF2-465D-A2CF-C03CEC458715}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B4CD465-CC97-4243-A12C-5A62335961C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4CD465-CC97-4243-A12C-5A62335961C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4CD465-CC97-4243-A12C-5A62335961C3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7B4CD465-CC97-4243-A12C-5A62335961C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4CD465-CC97-4243-A12C-5A62335961C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B4CD465-CC97-4243-A12C-5A62335961C3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1BE8DB2E-8BF2-465D-A2CF-C03CEC458715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE8DB2E-8BF2-465D-A2CF-C03CEC458715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE8DB2E-8BF2-465D-A2CF-C03CEC458715}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1BE8DB2E-8BF2-465D-A2CF-C03CEC458715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE8DB2E-8BF2-465D-A2CF-C03CEC458715}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE8DB2E-8BF2-465D-A2CF-C03CEC458715}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal
