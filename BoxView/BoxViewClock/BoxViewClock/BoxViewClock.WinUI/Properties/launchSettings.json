@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "BoxViewClock.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
