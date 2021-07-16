@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "PassingData.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
