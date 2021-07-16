@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31220.234
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipCalc", "TipCalc\TipCalc\TipCalc.csproj", "{F06E1181-6049-43CA-B314-F42A3292ABBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipCalc.WinUI", "TipCalc\TipCalc.WinUI\TipCalc.WinUI.csproj", "{252AD965-64C4-4852-95F7-9D378231998E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F06E1181-6049-43CA-B314-F42A3292ABBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06E1181-6049-43CA-B314-F42A3292ABBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06E1181-6049-43CA-B314-F42A3292ABBD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F06E1181-6049-43CA-B314-F42A3292ABBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06E1181-6049-43CA-B314-F42A3292ABBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06E1181-6049-43CA-B314-F42A3292ABBD}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{252AD965-64C4-4852-95F7-9D378231998E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252AD965-64C4-4852-95F7-9D378231998E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252AD965-64C4-4852-95F7-9D378231998E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{252AD965-64C4-4852-95F7-9D378231998E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252AD965-64C4-4852-95F7-9D378231998E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252AD965-64C4-4852-95F7-9D378231998E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F7FB11-1E47-470C-91E2-47F8143E1572}
+	EndGlobalSection
+EndGlobal

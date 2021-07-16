@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "TipCalc.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
