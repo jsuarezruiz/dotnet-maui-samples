@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "WorkingWithListView.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}

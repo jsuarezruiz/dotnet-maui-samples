@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UsingMessagingCenter.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
