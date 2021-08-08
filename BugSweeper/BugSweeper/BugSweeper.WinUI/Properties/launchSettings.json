@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "BugSweeper.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
