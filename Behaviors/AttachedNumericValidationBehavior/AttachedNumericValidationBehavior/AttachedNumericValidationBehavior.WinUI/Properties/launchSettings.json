@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "AttachedNumericValidationBehavior.WinUI": {
+      "commandName": "MsixPackage"
+    }
+  }
+}
